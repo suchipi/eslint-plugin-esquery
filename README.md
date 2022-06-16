@@ -1,5 +1,11 @@
 # eslint-plugin-esquery
 
+## ⚠️ Already Part of ESLint Core
+
+Tip: You may not need this plugin! It is already a part of ESLint core as [`no-restricted-syntax`](https://eslint.org/docs/rules/no-restricted-syntax).
+
+## Description
+
 This ESLint plugin lets users write simple ESLint rules right in their config by leveraging the power of [ESQuery](https://github.com/estools/esquery), which is a CSS-selector-like library for ASTs.
 
 ## Installation
